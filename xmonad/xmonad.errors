@@ -1,0 +1,7 @@
+
+xmonad.hs:66:15: warning: [-Wtabs]
+    Tab character found here, and in 13 further locations.
+    Please use spaces instead.
+   |
+66 |     , ((modm,               xK_x     ), kill)
+   |               ^^
